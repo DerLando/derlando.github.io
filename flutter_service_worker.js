@@ -15,7 +15,7 @@ const RESOURCES = {
 "assets/lib/images/DALL%25C2%25B7E%25202022-11-29%252001.12.26%2520-%2520bauhaus%2520building%2520designed%2520by%2520futuristic%2520architect%2520photorealistic%2520render.png": "c05874796ed41e6ac4a3944feccf2882",
 "assets/lib/images/Screenshot2023-01-21.png": "ac9b02ec23cf4d877a7abce74987dbd0",
 "assets/lib/images/Subject%2520(3).png": "84c1036ea2e8d4824277de433eb8171c",
-"assets/NOTICES": "f1e053a134e4d84ee3bc97e300aecba1",
+"assets/NOTICES": "c904eb92acdd0dcd9f0857b1261dfff5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Bold.ttf": "a9c8e437146ef63fcd6fae7cf65ca859",
@@ -49,9 +49,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e076330722a2e666a20de7f0fce8529e",
-"/": "e076330722a2e666a20de7f0fce8529e",
-"main.dart.js": "e06c190a3948b6d889ffb5830f082cdc",
+"index.html": "3d081854906c7c7769fad8ba2bed33ca",
+"/": "3d081854906c7c7769fad8ba2bed33ca",
+"main.dart.js": "8f6a56ff247ed57a1c876a68b6b8acab",
 "manifest.json": "43b7efe7363436b7f9aba500e4e2763b",
 "version.json": "142de9bd1e434e2882111febf7e72b41"
 };
